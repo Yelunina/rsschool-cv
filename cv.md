@@ -27,11 +27,11 @@ Tech Stack: Java, Spring, Lombok, Maven, Gradle, Cucumber, Jira, TestLink, Postm
 
 ### **GMBH Fifth Element Plus, sales manager 2008-2010**
 
-+support and training of new employees
++ support and training of new employees
 
 ### GMBH OSE, assistant manager 2002-2008
 
-+recruitment and invitation of personnel
++ recruitment and invitation of personnel
 
 ### School Sasynivska , teacher 2000 -2001
 

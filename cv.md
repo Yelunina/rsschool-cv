@@ -4,15 +4,15 @@
 ## **TRAINING**
 ---
 
-### AIT-TR GmbH Technology School, Germany, Berlin (2023-2024)
+#### AIT-TR GmbH Technology School, Germany, Berlin (2023-2024)
 
 Tech Stack: Java, Spring, Lombok, Maven, Gradle, Cucumber, Jira, TestLink, Postman, Docker, MySQL
 
-### Ukrainian Mediation Center, Kyiv 2020 – 2021 Mediator
+#### Ukrainian Mediation Center, Kyiv 2020 – 2021 Mediator
 
-### Agricultural Academy, Poltava 2007 - 2009 Manager - Economist
+#### Agricultural Academy, Poltava 2007 - 2009 Manager - Economist
 
-### Pedagogical University, Poltava 1995 - 2000 Teacher of history and geography
+#### Pedagogical University, Poltava 1995 - 2000 Teacher of history and geography
 
 ## **WORK EXPERIENCE**
 ---

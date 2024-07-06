@@ -20,6 +20,8 @@ main {
     padding: 1rem;
     max-width: 800px;
     width: 100%;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1, h2, h3 {
@@ -76,4 +78,16 @@ footer a {
 
 footer a:hover {
     text-decoration: underline;
+}
+
+/* Стили для фото */
+.profile {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.profile img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
 }

@@ -5,6 +5,8 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
+    display: flex;
+    justify-content: center;
 }
 
 header, footer {
@@ -16,6 +18,8 @@ header, footer {
 
 main {
     padding: 1rem;
+    max-width: 800px;
+    width: 100%;
 }
 
 h1, h2, h3 {

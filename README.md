@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Yelunina.github.io/rsschool-cv/
